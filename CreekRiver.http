@@ -1,0 +1,6 @@
+@CreekRiver_HostAddress = http://localhost:5052
+
+GET {{CreekRiver_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
